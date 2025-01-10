@@ -1,4 +1,4 @@
-Hi there 👋 This is Anusha
+Hi there 👋 
 
 <h1>Ausha Kanaganipalli</h1>
 

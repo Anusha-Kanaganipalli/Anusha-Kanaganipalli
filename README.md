@@ -1,5 +1,6 @@
 Hi there 👋 This is Anusha
 
+<h1>Ausha Kanaganipalli</h1>
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
